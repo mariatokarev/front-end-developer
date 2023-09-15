@@ -1,0 +1,501 @@
+<DOCTYPE! html>
+    <html>
+ <head>
+    <title>Curriculum Vitae/Resume</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheet.css">
+    
+</head>
+
+<body>
+    <div class="card-section">
+
+        <div>
+            <h1 class="card-title">Professional Development</h1>
+            <p class="card-subtitle">Maria Tokarev's professional development and career growth</p>
+         </div>
+
+        <div class="flipping-cards">
+
+            <div class="profile-card first-profile-card">
+
+                <div class="profile-card-front profile-card-face">      
+                    
+
+                    <h2 class="name">New York Life Insurance Company, 01/2021-08/2021, Remote</h2>
+                    <h3 class="role">Financial Advisor</h3>
+
+                    <div class="expertise-section">
+                        <p class="expertise-title">Areas of Expertise</p>
+                        <ul>
+                            <li class="expertise">Risk Management</li>
+                            <li class="expertise">Financial planning and analysis</li>
+                            <li class="expertise">IT skills</li>
+                            <li class="expertise">Investment management</li>
+                            <li class="expertise">Effective Communications</li>
+                            <li class="expertise">Marketing</li>
+                            <li class="expertise">WordPress, SEO, Google Analytics</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="profile-card-back profile-card-face">
+                    <div class="about-section">
+                        <h2 class="about-title">Description of Role</h2>
+                        <p class="about-text">
+                            Evaluated business and individual assets including, but not limited to, assets, accumulated debt, interest rate of the debt.
+                            Developed financial planning on determining what are short-term and long-term goals of a client.
+                            Closed out over 75-100 cases per month with the leaster values of 250,000$.
+                            Provided investement analysis through the research and analysis of investment opportunities such as IRA, mutual funds, bonds and stocks.
+                            Utilized skills in risk management that included an evaluation of potential life insurance plans with appropriate coverage, estate planning needs and helped to strategized maximum savings.
+                            Developed an expertise in tax planning according to the state and federal tax laws.
+                            Developed strong communication skills and established trust and rapport with a client through explanation of difficult terminology and consequences of each plan that client choses.
+                            Utilized technology skills through usage of finance sofwatre tools including, but not limited to, Excel, Words, Tableu (for visual representation of gathered data), and SQL.
+                            Utilized gained skills in marketing through the creation of personal website on WordPress, marketing with reliance on SEO from Google Analytics and WordPress, and learned all required marketing strategies and effective communication through Internet with potential client.
+                        </p>
+                    </div>
+
+                    <div class="interests-section">
+                        <p class="interests-title">Interests</p>
+                        <ul>
+                            <li class="interest">Financial Analysis</li>
+                            <li class="interest">Developing WordPress websites</li>
+                            <li class="interest">Stocks and Trading</li>
+                            <li class="interest">Professional Development</li>
+                            <li class="interest">Marketing</li>
+                        </ul>
+                    </div>
+
+                    <footer>
+                        <div class="button"> 
+                            <a href="Resume.html">Go Back Home</a>
+                           
+                        </div>
+                    </footer>
+                </div>
+
+            </div>
+
+            <div class="profile-card second-profile-card">
+
+                <div class="profile-card-front profile-card-face">      
+                
+
+                    <h2 class="name">Culmen International, 02/2022-02/2023, Remote</h2>
+                    <h3 class="role">Internship</h3>
+
+                    <div class="expertise-section">
+                        <p class="expertise-title">Areas of Expertise</p>
+                        <ul>
+                            <li class="expertise">Project Management</li>
+                            <li class="expertise">Procurement</li>
+                            <li class="expertise">Logistics coordination</li>
+                            <li class="expertise">Reports Development</li>
+                            <li class="expertise">Microsoft Office including Excel</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="profile-card-back profile-card-face">
+                    <div class="about-section">
+                        <h2 class="about-title">Role Description</h2>
+                        <p class="about-text">
+                            Conducted procurement according to FAR and DFAR on behalf on USGC.
+                            Analyzed provided data on shipments to the warehouse and prepared reports on deliveries.
+                            Collaborated and developed strategies for decision-making process.
+                            Porvided support in project management and closely collaborated with Senior Executives in assisting in coordination and in execution of projects.
+                            Provided developed RFQ's under supervision for further execution.
+                            Provided administrative assistance including, but not limited to, organized files, managed required documentation, maintained records.
+                            Took leadership in maintaining Atlas through the input of Procurement Requests and MTR's by filling out required tables and forms for further execution.
+                        </p>
+                    </div>
+
+                    <div class="interests-section">
+                        <p class="interests-title">Interests</p>
+                        <ul>
+                            <li class="interest">Business Development</li>
+                            <li class="interest">Procurement/Buyer</li>
+                            <li class="interest">Project Management</li>
+                            <li class="interest">Data Analysis</li>
+                          
+                        </ul>
+                    </div>
+
+                    <footer>
+                        <div class="button"> 
+                            <a href="Resume.html">Go Back Home</a>
+
+                            
+                        </div>
+                    </footer>
+                </div>
+
+            </div>
+
+            <div class="profile-card third-profile-card">
+
+                <div class="profile-card-front profile-card-face">      
+                    
+
+                    <h2 class="name">Culmen International, 02/2023-Current, Remote</h2>
+                    <h3 class="role">Procurement Speciliat/Logistics Coordinator/Clerk</h3>
+
+                    <div class="expertise-section">
+                        <p class="expertise-title">Areas of Expertise</p>
+                        <ul>
+                            <li class="expertise">Business Development</li>
+                            <li class="expertise">Data Entry</li>
+                            <li class="expertise">Data Visualization</li>
+                            <li class="expertise">Excel</li>
+                            <li class="expertise">Procurement</li>
+                            <li class="expertise">RFQ,RFP,FAR,DFAR,SOW,PWS,RFP</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="profile-card-back profile-card-face">
+                    <div class="about-section">
+                        <h2 class="about-title">Role Description</h2>
+                        <p class="about-text">
+                            Worked simultaneously on multiple projects and teams, and effectively met deadlines.
+                            Collaborated with international travelers for enhancing understanding of their travel requirements and needs with reliance on budget constraints
+                            Research reliable and safe ground transportation from Ukraine to Poland.
+                            Researched and secured hotel accomodations based on travelers preferences, proximity to the airport and the best rates.
+                            Worked with sensitive personal information.
+                            Collaborated effectively with team and Senior executives by providing latest updates and changes.
+                            For 16+ hours researched the approximate arrival time of the airplane and coordinated team to the correct gates for meeting international participants of the project.
+                            Independently, with no supervision, conducted procurement, developed RFQ's, developed databses and weekly reports on deliveries.
+                            Developed high understanding of FAR/DFAR, Cost Accounting, SOW, PWS, WBS, ODC, RFP.
+                            Contributed into researching and gathering information, editing and writing RFP for ORR HHS contract.
+                            Engaged into negotiations with vendors on prices, taxes, delivery times.
+                            Developed high understanding of computer algorithms, SQL, TabelU.
+                            Advanced communication skills through attending meeting with Senior executives, teammates, and government officers.
+                        </p>
+                    </div>
+
+                    <div class="interests-section">
+                        <p class="interests-title">Key Interests</p>
+                        <ul>
+                            <li class="interest">IT </li>
+                            <li class="interest">Data Analysis and Visualization</li>
+                            <li class="interest">Prcoruement</li>
+                            <li class="interest">Business Development</li>
+                            <li class="interest">Contracting</li>
+                            <li class="interest">Logistics Coordinator</li>
+                            <li class="interest">Front-End Development</li>
+                        </ul>
+                    </div>
+
+                    <footer>
+                        <div class="button"> 
+                            <a href="Resume.html">Go Back Home</a>
+                        </div>
+                    </footer>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+<style>
+*{
+    box-sizing: border-box;
+    margin: 0;
+ }
+
+ html{
+    font-size: 62.5%;
+ }
+
+ body{
+    font-family: 'Inter', sans-serif;
+    background-color: #23272cb0; 
+    color: #ffff;
+ } 
+
+ ul,
+ li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size:14px;
+    
+}
+
+ a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-section {
+    padding-top: 3rem;
+    scroll-behavior:smooth;
+    overflow-y:scroll;
+    overscroll-behavior-inline: inline;
+    
+}
+
+.card-title {
+    font-size: 3.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+ }
+
+ .card-subtitle {
+    font-size: 1.4rem;
+    line-height: 1.8;
+    text-align: center;
+ }
+
+ .flipping-cards {
+   padding: 2rem 0;
+   margin: 0 auto;
+   width: 800px;
+   max-width: 1100px;
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-column-gap: 60px;
+ }
+
+
+
+
+.profile-card {
+   height: 52rem;
+   position: relative;
+   perspective: 150rem;
+   -moz-perspective: 150rem;
+ }
+
+.profile-card-face {
+   background-color: #1A1B21;
+   color: #FFFFFF;
+   width: 320px;
+   margin: 30px auto;
+   border-radius: 10px;
+   transition: all .8s ease;
+   position: absolute;
+   top: 0;
+   left: 0;
+   -webkit-backface-visibility: hidden;
+   backface-visibility: hidden;
+   overflow: hidden;
+}
+
+.profile-card-back{
+   transform: rotateY(180deg);
+   width:100%;
+   height:500px;
+   overflow-y:scroll;
+   overscroll-behavior-inline: inline;
+   background: linear-gradient(315deg, rgba(0, 0, 0, 0.484), #00ff952d);
+  
+}
+
+.profile-card:hover .profile-card-front {
+   transform: rotateY(-180deg);
+   overflow-y:scroll;
+   overscroll-behavior-inline: inline;
+}
+
+.profile-card:hover .profile-card-back {
+   transform: rotateY(0);
+   overflow-y:scroll;
+   overscroll-behavior-inline: inline;
+}
+
+
+
+.profile-picture {
+   width: 320px;
+   max-height: 210px;
+   border-radius: 10px 10px 0 0;
+}
+
+.name{
+   font-weight: 700;
+   font-size: 2.2rem;
+   text-align: center;
+   color: #FFFFFF;
+   padding-top: 2rem;
+   padding-bottom: 0.6rem;
+ }
+
+ .role{
+   font-weight: 400;
+   font-size: 1.4rem;
+   text-align: center;
+   color: #F3BF99;
+   margin: 0px
+ }
+
+ .expertise-section {
+    padding: 0 3.5rem 2rem;
+ }
+
+ .expertise-title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    margin-top: 2.8rem;
+    margin-bottom: 2rem;
+ }
+
+ .expertise {
+   font-size: 1rem;
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   margin-bottom: 1rem;
+ }
+
+
+
+
+.about-section{
+   padding: 0 4rem;
+}
+
+.about-title {
+   font-weight: 700 italic;
+   font-size: 1.6rem;
+   color: #ffff;
+   padding-top: 3rem;
+   padding-bottom: 0.8rem;
+}
+
+.about-text {
+   font-style: normal;
+   text-align: justify;
+   font-weight: 400;
+   font-size: 1.2rem;
+   line-height: 1.6;
+   color: #ffff;
+}
+
+.interests-section {
+   padding: 0 3.5rem 2rem;
+}
+
+.interests-title {
+   font-weight: 700;
+   font-size: 1.5rem;
+   color: #FFFFFF;
+   margin-top: 2.5rem;
+   margin-bottom: 2rem;
+}
+
+.interest {
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 1rem;
+}
+
+ footer{
+    width: 100%;
+    height: 55px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 18px 72px 22px;
+ }
+
+ .icons{
+     display: flex;
+     justify-content: space-between;
+ }
+
+
+
+.card-subtitle {
+   font-size: 1.4rem;
+   padding: 0 10rem;
+}
+
+.flipping-cards {
+   margin-bottom: 5rem;
+   width: 100%;
+   max-width: 900px;
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-template-rows: 1fr;
+   grid-column-gap: 60px;
+   grid-row-gap: 30px;
+}
+
+.third-profile-card {
+   justify-items: center;
+   align-items: center;
+}
+}
+
+@media screen and (max-width: 700px) { 
+
+.card-title {
+   font-size: 3rem;
+   padding-left: 2rem;
+   padding-right: 2rem;
+ }
+
+ .card-subtitle {
+    font-size: 1.4rem;
+    padding: 0 6rem;
+ }
+
+ .flipping-cards {
+   margin-bottom: 5rem;
+   width: 100%;
+   max-width: 300px;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(3, 1fr);
+   grid-column-gap: 60px;
+   grid-row-gap: 30px;
+ }
+
+ }
+
+ @media screen and (max-width: 450px) { 
+
+.card-title {
+   font-size: 3rem;
+   padding-left: 2rem;
+   padding-right: 2rem;
+}
+
+.card-subtitle {
+   font-size: 1.2rem;
+   padding: 0 3rem;
+}
+
+.flipping-cards {
+   margin-bottom: 5rem;
+   width: 100%;
+   max-width: 500px;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(3, 1fr);
+   grid-column-gap: 60px;
+   grid-row-gap: 30px;
+}
+
+}
+</style>
+<script>
+    window.transitionToPage = function(href) {
+document.querySelector('container').style.opacity = 0
+setTimeout(function() { 
+window.location.href = href
+}, 500)
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+document.querySelector('body').style.opacity = 1
+})
+</script>
+</html>
